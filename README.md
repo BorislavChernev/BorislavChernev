@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Borislav</h1>
 <h3 align="center">A passionate student from Bulgaria</h3>
 
-- 🌱 I’m currently learning **SoftUni C# Pathway and Unity Engine**
+- 🌱 I’m currently learning: **SoftUni C# Pathway and Unity Engine**
 
-- 📫 How to reach me **borocool359@gmail.com**
+- 📫 How to reach me: **borocool359@gmail.com**
 
-- ⚡ Fun fact **I love to create digital art by using Adobe Photoshop**
+- 🥅 2022 Goals: **Master C# and Unity Engine && learn Blender and Python :)**
+
+- ⚡ Hobby: **I love to create digital art by using Adobe Photoshop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
