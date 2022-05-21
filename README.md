@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/b_chernev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97783740/169658249-eab2fd11-1130-4729-a4c4-9759bf9c961c.png" alt="b_chernev" height="37" width="37" /></a>
-<a href="https://linkedin.com/in/borislav chernev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97783740/169655216-657e260b-a971-44ed-9e2c-52fcba72954c.png" alt="borislav chernev" height="37" width="37" /></a>
+<a href="https://www.linkedin.com/in/borislav-chernev-042165236/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97783740/169655216-657e260b-a971-44ed-9e2c-52fcba72954c.png" alt="borislav chernev" height="37" width="37" /></a>
 <a href="https://instagram.com/borislav.chernev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97783740/169657937-4ca20fc6-e91d-475c-ac2d-c21110a3702f.png" alt="borislav.chernev" height="37" width="37" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
