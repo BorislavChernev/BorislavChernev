@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **borocool359@gmail.com**
 
-- 🥅 2022 Goals: **Master C# and Unity Engine && learn Blender and Python :)**
+- 🥅 2022 Goals: **Master C# && Master UnityEngine && (Learn JS && HTML && CSS)**
 
 - ⚡ Hobby: **I love to create digital art by using Adobe Photoshop** 
 
