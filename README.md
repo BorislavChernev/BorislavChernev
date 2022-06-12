@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **borocool359@gmail.com**
 
-- 🥅 2022 Goals: **Master C# && <s>Learn Unity</s> && (Learn JS && HTML && CSS)**
+- 🥅 2022 Goals: **Master C# && <s>Learn Unity</s> && (Learn JS && <s>HTML</s> && CSS)**
 
 - ⚡ Hobby: **I love to create digital art by using Adobe Photoshop** 
 
