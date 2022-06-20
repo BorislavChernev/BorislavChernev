@@ -7,7 +7,7 @@
 
 - 🥅 2022 Goals: **Master C# && <s>Learn Unity</s> && (Learn JS, <s>HTML</s>, <s>CSS</s>)**
 
-- ⚡ Hobby: **I love to create digital art by using Adobe Photoshop** 
+- ⚡ Hobby: **I love to create digital art by using Adobe Photoshop, Illustrator and After Effects** 
 
 - 🎨 Instagram art page: [**BBMicroWorlds**](https://www.instagram.com/bbmicroworlds/)
 
