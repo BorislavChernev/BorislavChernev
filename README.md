@@ -9,7 +9,7 @@
 
 - ⚡ Hobby: **I love to create digital art by using Adobe Photoshop, Illustrator and After Effects** 
 
-- 🎨 Instagram art page: [**BBMicroWorlds**](https://www.instagram.com/bbmicroworlds/)
+- 🎨 Instagram art page: [**@bbmicroworlds**](https://www.instagram.com/bbmicroworlds/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
