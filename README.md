@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Borislav - aka CaptainBo</h1>
+<h1 align="center">Hi there👋, I'm Borislav</h1>
+<div>
 <h3 align="center">A passionate student from Bulgaria</h3>
 
 - 🌱 I’m currently learning: **SoftUni C# Pathway and Unity Engine**
@@ -10,7 +11,7 @@
 - ⚡ Hobby: **I love to create digital art by using Adobe Photoshop, Illustrator and After Effects** 
 
 - 🎨 Instagram art page: [**@bbmicroworlds**](https://www.instagram.com/bbmicroworlds/)
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/b_chernev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97783740/169658249-eab2fd11-1130-4729-a4c4-9759bf9c961c.png" alt="b_chernev" height="32" width="32" /></a>
