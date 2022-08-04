@@ -4,7 +4,7 @@
 
 <section>
   
-  I'm a Student from Bulgaria, who loves coding and is currently studying at SoftUni (Software University) and working as a video editor for [**@MyStreamingBrother**](https://www.youtube.com/c/MyStreamingBrother). I mainly code in C#. In 2022 I fell in love with Unity, HTML, CSS and JavaScript. Currently learning C# and JavaScript. My Goals for this year are to learn <s>Unity Engine</s>, JavaScript, React and Redux. I also have a hobby which is creating digital art by using Adobe Photoshop.<br> You can checkout my instagram art page [**@bbmicroworlds**](https://www.instagram.com/bbmicroworlds/).
+  I'm a Student from Bulgaria, who loves coding and is currently studying at SoftUni (Software University) and working as a video editor for [**@MyStreamingBrother**](https://www.youtube.com/c/MyStreamingBrother). I mainly code in C#. In 2022 I fell in love with Unity, HTML, CSS and JavaScript. Currently learning C# and JavaScript. My Goals for this year are to learn <s>Unity Engine</s>, <s>HTML & CSS</s>, JavaScript, React and Redux. I also have a hobby which is creating digital art by using Adobe Photoshop.<br> You can checkout my instagram art page [**@bbmicroworlds**](https://www.instagram.com/bbmicroworlds/).
   
 <!-- - 🌱 I’m currently learning: **SoftUni C# Pathway**
 
