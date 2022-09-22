@@ -52,6 +52,9 @@
    <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/174046446-e5e74743-f451-49a2-a877-d493d6734a8b.png" alt="css" width="40" height="40">
    </a>
+   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/97783740/191747921-b87d3b50-ebef-402a-8d1f-d4c199f9b414.png" alt="javascript" width="40" height="40">
+   </a>
   </section>
   
   <section>
