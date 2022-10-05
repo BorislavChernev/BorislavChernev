@@ -55,6 +55,10 @@
    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/191747921-b87d3b50-ebef-402a-8d1f-d4c199f9b414.png" alt="javascript" width="40" height="40">
    </a>
+      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/97783740/194129811-6aee64f4-5a52-4782-90a2-3e819b081bd2.png" alt="node.js" width="40" height="40">
+   </a>
+
   </section>
   
   <section>
