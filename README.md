@@ -46,6 +46,9 @@
    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/170877386-e79c36be-c77a-46af-89d8-8e1bba576f52.png" alt="dotnet" width="40" height="40">
    </a>
+   <a href="https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/97783740/194707398-e1125764-a125-44a4-8d3e-7555feb2d1a7.png" alt="nunit" width="40" height="40">
+   </a>
    <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/174045990-7e313e95-b1b7-40c8-a3c8-7b277822098b.png" alt="html" width="40" height="40">
    </a>
@@ -57,6 +60,14 @@
    </a>
       <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/194129811-6aee64f4-5a52-4782-90a2-3e819b081bd2.png" alt="node.js" width="40" height="40">
+   </a>
+   </a>
+      <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/97783740/194708180-6532a811-c7bd-4818-9480-4f4a7b7ee4fa.png" alt="mocha" width="40" height="40">
+   </a>
+   </a>
+      <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/97783740/194708203-0a4633c7-1eda-4d8f-b4b2-6b4b2ee89906.png" alt="chai" width="40" height="40">
    </a>
 
   </section>
