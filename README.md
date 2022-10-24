@@ -40,7 +40,7 @@
   
   <section>
    <h3 align="left">Languages and Frameworks:</h3>
-   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40">
    </a>
    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
@@ -49,11 +49,20 @@
    <a href="https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/194707398-e1125764-a125-44a4-8d3e-7555feb2d1a7.png" alt="nunit" width="40" height="40">
    </a>
-   <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
+         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/97783740/197574781-2644be66-7689-41c0-87da-39912ed548f4.png" alt="bootstrap" width="40" height="40">
+   </a>
+   <a href="https://html.com/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/174045990-7e313e95-b1b7-40c8-a3c8-7b277822098b.png" alt="html" width="40" height="40">
    </a>
-   <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer">
+   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/174046446-e5e74743-f451-49a2-a877-d493d6734a8b.png" alt="css" width="40" height="40">
+   </a>
+   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/97783740/197573591-89f2ebbe-87d8-4d49-85ae-e9b479f7dd9f.png" alt="sass" width="53" height="40">
+   </a>
+         <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/97783740/197574511-d34694fd-d29c-4208-a8c7-069537e30397.png" alt="jquery" width="40" height="40">
    </a>
    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/191747921-b87d3b50-ebef-402a-8d1f-d4c199f9b414.png" alt="javascript" width="40" height="40">
