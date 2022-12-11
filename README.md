@@ -64,13 +64,15 @@
     <a href="https://jquery.com/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/197574511-d34694fd-d29c-4208-a8c7-069537e30397.png" alt="jquery" width="40" height="40">
    </a>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/97783740/206919673-976aef75-69b9-48e5-9a0d-dcca9f547685.png" alt="react.js" width="46" height="40">
+   </a>
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/206919475-2202d792-ee67-4822-bf2c-14a05ce59936.svg" alt="redux.js" width="38" height="40">
    </a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/197573591-89f2ebbe-87d8-4d49-85ae-e9b479f7dd9f.png" alt="sass" width="53" height="40">
    </a>
-
 
   </section>
   
