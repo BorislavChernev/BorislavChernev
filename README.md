@@ -55,19 +55,19 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/174046446-e5e74743-f451-49a2-a877-d493d6734a8b.png" alt="css" width="40" height="40">
    </a>
-   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img src="https://user-images.githubusercontent.com/97783740/197573591-89f2ebbe-87d8-4d49-85ae-e9b479f7dd9f.png" alt="sass" width="53" height="40">
-   </a>
-         <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-      <img src="https://user-images.githubusercontent.com/97783740/197574511-d34694fd-d29c-4208-a8c7-069537e30397.png" alt="jquery" width="40" height="40">
-   </a>
-   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+       <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/191747921-b87d3b50-ebef-402a-8d1f-d4c199f9b414.png" alt="javascript" width="40" height="40">
    </a>
-      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/194129811-6aee64f4-5a52-4782-90a2-3e819b081bd2.png" alt="node.js" width="40" height="40">
    </a>
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/97783740/197574511-d34694fd-d29c-4208-a8c7-069537e30397.png" alt="jquery" width="40" height="40">
    </a>
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/97783740/206919423-a2bb597d-a032-4c7f-b011-c518506b5527.png" alt="react.js" width="46" height="40">
+   </a>
+
 
   </section>
   
