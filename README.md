@@ -39,7 +39,7 @@
   </section>
   
   <section>
-   <h3 align="left">Languages, Frameworks and Libraries:</h3>
+   <h3 align="left">Tech Stack:</h3>
    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40">
    </a>
