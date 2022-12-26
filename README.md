@@ -95,3 +95,7 @@
   
 ![GitHub Snake Light](https://github.com/BorislavChernev/BorislavChernev/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/BorislavChernev/BorislavChernev/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+  
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=BorislavChernev&icon=0&color=8"/>
+</a>
