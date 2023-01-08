@@ -73,9 +73,14 @@
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/197573591-89f2ebbe-87d8-4d49-85ae-e9b479f7dd9f.png" alt="sass" width="53" height="40">
    </a>
-
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/97783740/211193187-ecec336e-dc0d-480c-b4ce-907e2fd5c9aa.png" alt="mssqlserver" width="38" height="40">
+   </a>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/97783740/211194373-6d57e905-a992-411c-a95d-d99fc9bbaa31.png" alt="mssqlserver" width="40" height="40">
+   </a>
   </section>
-  
+
   <section>
     <h3 align="left">Tools:</h3>
     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
