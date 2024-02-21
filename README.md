@@ -79,7 +79,22 @@
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/211194373-6d57e905-a992-411c-a95d-d99fc9bbaa31.png" alt="mssqlserver" width="40" height="40">
    </a>
+        <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer">
+      <img src="https://github.com/BorislavChernev/BorislavChernev/assets/97783740/9f47f130-7c82-433d-b987-2842c64f1249" alt="azure" width="40" height="40">
+   </a>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/BorislavChernev/BorislavChernev/assets/97783740/68e70d71-a81a-4311-b848-8298b09dc890" alt="docker" width="55" height="40">
+   </a>
+            <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/BorislavChernev/BorislavChernev/assets/97783740/50e7e110-9e02-456e-9dae-787fdffad424" alt="kubernetes" width="40" height="40">
+   </a>
+                <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/BorislavChernev/BorislavChernev/assets/97783740/d197efbf-27b9-4be0-9376-412fcc915ee3t" alt="terraform" width="50" height="40">
+   </a>
   </section>
+
+
+
 
   <section>
     <h3 align="left">Tools:</h3>
