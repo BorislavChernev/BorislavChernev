@@ -95,8 +95,6 @@
    </a>
   </section>
 </div>
-  
-![image]()
 
 
 ![GitHub Snake Light](https://github.com/BorislavChernev/BorislavChernev/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
