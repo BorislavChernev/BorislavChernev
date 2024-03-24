@@ -1,4 +1,3 @@
-<main>
   <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Borislav</h1>
 </main>
 
@@ -64,6 +63,9 @@
     <a href="https://jquery.com/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/197574511-d34694fd-d29c-4208-a8c7-069537e30397.png" alt="jquery" width="40" height="40">
    </a>
+      <a href="https://angular.io/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/BorislavChernev/BorislavChernev/assets/97783740/0deb49dd-d5c3-4d36-9d65-9b0244dc321d" alt="angular.js" width="50" height="50">
+   </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/97783740/206919673-976aef75-69b9-48e5-9a0d-dcca9f547685.png" alt="react.js" width="46" height="40">
    </a>
@@ -94,5 +96,8 @@
   </section>
 </div>
   
+![image]()
+
+
 ![GitHub Snake Light](https://github.com/BorislavChernev/BorislavChernev/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/BorislavChernev/BorislavChernev/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
