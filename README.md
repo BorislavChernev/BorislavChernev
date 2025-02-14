@@ -83,6 +83,10 @@ I'm an 18-year-old full-stack junior developer from Bulgaria. As a high school s
 <!--   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/97783740/206919475-2202d792-ee67-4822-bf2c-14a05ce59936.svg" alt="Redux" width="38" height="40">
   </a> -->
+  <!-- Tailwind -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/9eb88492-b2c0-4af9-9a4b-c7111d4b31ba" alt="Tailwind" width="55" height="40">
+  </a>
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/97783740/197574781-2644be66-7689-41c0-87da-39912ed548f4.png" alt="Bootstrap" width="40" height="40">
